@@ -1,54 +1,22 @@
-#  React Hands-On
+# React Hands-On
 
-Repositório criado para **dominar React na prática**, evoluindo através de **mini projetos reais e progressivos**.
+Repositório criado para demonstrar, de forma prática, o uso dos principais conceitos do React, indo do básico ao avançado.
 
-Aqui o foco é **aprender fazendo**, com código limpo, organização profissional
-e conceitos usados no dia a dia de empresas.
+Este projeto funciona como um laboratório técnico, onde cada pasta representa um conceito específico da biblioteca.
 
----
-
-## Estrutura
-
-- `01-fundamentos` → Base do React (JSX, componentes, props, estado)
-- `02-hooks` → Hooks na prática
-- `03-componentizacao` → Componentes reutilizáveis
-- `04-estado-e-forms` → Formulários e controle de estado
-- `05-apis` → Consumo de APIs
-- `06-rotas` → React Router
-- `07-performance` → Performance e otimização
-- `08-testes` → Testes em React
-- `09-boas-praticas` → Organização profissional
-- `10-projetos-pleno` → Projetos completos
-
----
+##  Conceitos abordados
+- Estado local (`useState`)
+- Efeitos colaterais (`useEffect`)
+- Inputs controlados
+- Renderização de listas
+- Context API
+- Hooks personalizados
+- Otimização de performance
 
 ##  Objetivo
-
-- Dominar os fundamentos do React
-- Resolver problemas reais com React
-
----
+Demonstrar domínio prático de React para fins de portfólio técnico e entrevistas.
 
 ##  Tecnologias
-
 - React
-- JavaScript / TypeScript
+- TypeScript
 - Vite
-- ESLint
-- React Router
-- APIs REST
-
----
-
-##  Como usar
-
-Cada pasta contém **mini projetos independentes**, com:
-- README explicando o objetivo
-- Conceitos utilizados
-- Passo a passo para rodar o projeto
-
----
-
-##  Status
-
-🚧 Repositório em construção contínua.
