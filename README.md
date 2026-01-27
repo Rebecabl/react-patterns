@@ -1,22 +1,8 @@
-# React Hands-On
+# React Patterns
 
-Repositório criado para demonstrar, de forma prática, o uso dos principais conceitos do React, indo do básico ao avançado.
+Este repositório reúne implementações práticas de padrões comuns
+em aplicações frontend desenvolvidas com React.
 
-Este projeto funciona como um laboratório técnico, onde cada pasta representa um conceito específico da biblioteca.
-
-##  Conceitos abordados
-- Estado local (`useState`)
-- Efeitos colaterais (`useEffect`)
-- Inputs controlados
-- Renderização de listas
-- Context API
-- Hooks personalizados
-- Otimização de performance
-
-##  Objetivo
-Demonstrar domínio prático de React para fins de portfólio técnico e entrevistas.
-
-##  Tecnologias
-- React
-- TypeScript
-- Vite
+Os projetos são independentes entre si e foram criados com foco em
+organização de código, clareza de responsabilidades e decisões
+técnicas próximas da realidade de times de produto.
