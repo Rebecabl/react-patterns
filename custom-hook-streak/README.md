@@ -7,5 +7,3 @@ O foco do projeto é a separação de responsabilidades:
 - componente de UI simples e previsível
 - persistência via localStorage
 
-O projeto prioriza clareza e usabilidade em vez de animações
-excessivas.
