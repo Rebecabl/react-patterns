@@ -1,7 +1,6 @@
 ## Daily Streak – Custom Hook Pattern
 
-Implementação de um sistema de ofensiva diária inspirado em apps
-de aprendizado como Duolingo.
+Implementação de um sistema de ofensiva diária.
 
 O foco do projeto é a separação de responsabilidades:
 - lógica isolada em um custom hook
